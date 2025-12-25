@@ -23,7 +23,7 @@ The dashboard transforms raw data into **interactive business insights** using d
 
 ---
 
-## 🧮 **DAX Used (Example)**
+## 🧮 **DAX Used**
 ```DAX
 Region Group =
 SWITCH(
