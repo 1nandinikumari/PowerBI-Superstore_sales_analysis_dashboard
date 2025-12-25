@@ -39,17 +39,17 @@ SWITCH(
 
 ## **🔍 Key Insights**
 
--Technology category generates highest sales
--Consumer segment drives maximum revenu
--Some regions have high sales but lower profit margins
--Forecast shows stable short-term sales trend
+- Technology category generates highest sales
+- Consumer segment drives maximum revenu
+- Some regions have high sales but lower profit margins
+- Forecast shows stable short-term sales trend
 
 ---
 
 ## **🛠️ Tools & Technologies**
 
--Power BI
--DAX
--Power Query
--Data Modelin
--Forecasting
+- Power BI
+- DAX
+- Power Query
+- Data Modelin
+- Forecasting
